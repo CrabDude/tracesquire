@@ -1,0 +1,28 @@
+{
+  "name": "tracesquire",
+  "version": "0.0.1",
+  "description": "A traceur transpiler require replacement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CrabDude/tracesquire.git"
+  },
+  "keywords": [
+    "traceur",
+    "transpile",
+    "es6"
+  ],
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrabDude/tracesquire/issues"
+  },
+  "homepage": "https://github.com/CrabDude/tracesquire",
+  "dependencies": {
+    "transquire": "0.0.1",
+    "traceur": "0.0.22"
+  }
+}
